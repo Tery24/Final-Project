@@ -1,0 +1,50 @@
+.header{
+    
+    background-color: palevioletred;
+}
+
+
+.h1{
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav{
+
+    columns: 3;
+}
+
+.section{
+    height: 200px;
+    width: 50%;
+    background-color: plum;
+    background-image: 
+    background-size:cover;
+    border:double;
+}
+
+
+.article{
+    
+    height: 200px;;
+    width: 50%;
+    background-color: pink;
+    font-size: large; 
+    border: dotted;
+
+    
+
+}
+
+p{
+    font-style: italic; 
+    font-size: small;
+    text-align: center;
+}
+
+.footer{
+    height: 100px;
+    width: 500px;
+    background-color: palevioletred;
+    padding: 10px;
+}
